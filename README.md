@@ -1,6 +1,9 @@
 # 🌐 Jefther Simeon Afuyo – Personal Portfolio
 
 Welcome to my personal portfolio website! This is a fully responsive one-page web portfolio designed to showcase my skills, projects, and experience as a software developer and a Communication and Media specialist passionate about tech, sustainability, and design.
+This  a group 393 assignment which was done in collaboration by the following members:
+1. Jefther Afuyo
+2. 
 
 ## 🧑‍💻 About Me
 
